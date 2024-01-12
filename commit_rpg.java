@@ -8,4 +8,6 @@ public class commit_rpg {
     public static game_loop(){
 
     }
+
+  int two;
 }
